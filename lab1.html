@@ -22,22 +22,21 @@
 <h5>Moja pierwsza strona internetowa.</h5>
 <h6>Moja pierwsza strona internetowa.</h6>
 <p>Opis mojej strony...</p>
-<p>To wyrażenie będzie w <br>nowej linii.</p>
+<p>To wyrażenie będzie w <br/>nowej linii.</p>
 <ol>
  <li>element listy</li>
  <li>element listy</li>
 </ol>
-<p><a>kurs html</a>
-<a href="how2html.pl">kurs html</a>
-<a href="how2html.pl" target="_blank">kurs html</a></p>
-<form action="mailto:adres_email@am.gdynia.pl"method="post">
+<p><a href="how2html.pl">kurs html</a></p>
+<p><a href="how2html.pl">kurs html</a></p>
+<form action="mailto:adres_email@am.gdynia.pl" method="post">
 <p>Imię: <input type="text" name="imie" /></p>
 <p>Nazwisko: <input type="text" name="nazwisko" /><br /></p>
 <p>E-mail: <input type="text" name="e-mail" /><br /></p>
 <p>Płeć:
 Mężczyzna <input type="radio" name="plec" value="Mężczyzna" />
 Kobieta <input type="radio" name="plec" value="Kobieta" /><br /></p>
-<p><textarea name="wiadomosc" cols="50" row="10">Treść wiadomości</textarea></p>
+<p><textarea name="wiadomosc" cols="50" rows="10">Treść wiadomości</textarea></p>
 <p><input type="submit" value="Wyślij" /></p>
 </form>
 
