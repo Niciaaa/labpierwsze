@@ -11,15 +11,21 @@
 
   <title> [tytuł strony] </title>
 
-  <link rel="stylesheet" href=" index_zadaniecss.css " type="text/css" />
+  <link rel="stylesheet" href=" [nazwa_arkusza_stylow.css] " type="text/css" />
 </head>
 <body>
 <h1>Moja pierwsza strona internetowa</h1>
+<div id="akapit">
 <p>Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.</p>
+</div>
 <h3>Moja pierwsza strona internetowa</h3>
 <p>Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.Akapity tworzy się posługując się znacznikiem.</p>
+<div id="ob1">
 <p><img src="ab.jpg" alt="bla"/></p>
+</div>
 <h2>Moja pierwsza strona internetowa</h2>
+<div id="ob2">
 <p><img src="sharp.png" alt="aaaa"/></p>
+</div>
 </body>
 </html>
