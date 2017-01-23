@@ -1,0 +1,10 @@
+body {font-family: Georgia;}
+h1 {color:#800080;}
+h2 {color:#8000ff;}
+#p {font-size: 20px;}
+#ob1 {display:none;
+margin-top:-99px;}
+#ob2 {margin-left:50px}
+
+@media all and (max-width:400px) {
+body {background-color: #ff8000;}}
