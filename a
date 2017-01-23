@@ -11,7 +11,7 @@
 
   <title> [tytuł strony] </title>
 
-  <link rel="stylesheet" href=" [nazwa_arkusza_stylow.css] " type="text/css" />
+  <link rel="stylesheet" href=" indexzadanie.css " type="text/css" />
 </head>
 <body>
 <h1>Moja pierwsza strona internetowa</h1>
